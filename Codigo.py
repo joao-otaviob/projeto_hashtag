@@ -26,7 +26,7 @@ link = "https://dlp.hashtagtreinamentos.com/python/intensivao/login"
 pyautogui.write(link)
 pyautogui.press ("enter")
 
-time.sleep (3) 
+time.sleep (5) 
 
 pyautogui.click(x=607, y=563)
 pyautogui.write ("joao.otaviobarros@hotmail.com")
